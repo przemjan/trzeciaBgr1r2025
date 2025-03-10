@@ -28,5 +28,7 @@ public class Zmienne {
 
 
         boolean sun = true; // false
+
+        // https://github.com/przemjan/trzeciaBgr1r2025
     }
 }
